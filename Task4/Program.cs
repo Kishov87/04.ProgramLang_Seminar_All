@@ -2,6 +2,7 @@
 //456 -> 6
 //782 -> 2
 //918 -> 8
+//123
 
 using System;
 using static System.Console;
