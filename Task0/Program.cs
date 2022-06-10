@@ -3,7 +3,14 @@ using static System.Console;
 
 Clear();
 WriteLine("Введите число: ");
-int number = Convert.ToInt32(ReadLine());
+int number = 0;
+
+if(!int.TryParse(ReadLine(),out number))
+{
+    WriteLine("Ошибка ввода числа!");
+    return;
+}
+//int number = Convert.ToInt32(ReadLine());
 //int number1 = int.Parse(Console.ReadLine());
 
 int sqrNumber = number*number;
