@@ -1,0 +1,15 @@
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\Task12 (20).csproj.AssemblyReference.cache
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\Task12 (20).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\Task12 (20).AssemblyInfoInputs.cache
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\Task12 (20).AssemblyInfo.cs
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\Task12 (20).csproj.CoreCompileInputs.cache
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\bin\Debug\net6.0\Task12 (20).exe
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\bin\Debug\net6.0\Task12 (20).deps.json
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\bin\Debug\net6.0\Task12 (20).runtimeconfig.json
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\bin\Debug\net6.0\Task12 (20).dll
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\bin\Debug\net6.0\Task12 (20).pdb
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\Task12 (20).dll
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\refint\Task12 (20).dll
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\Task12 (20).pdb
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\Task12 (20).genruntimeconfig.cache
+C:\Users\Pavel Kishov\YandexDisk\Education\GeegBrains\4. Знакомство с языками программирования\Семинары\Семинар 1\Tasks2\Task12 (20)\obj\Debug\net6.0\ref\Task12 (20).dll
