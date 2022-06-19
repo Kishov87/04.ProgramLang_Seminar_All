@@ -6,6 +6,7 @@
 using System;
 using static System.Console; 
 
+
 void PrintArray(int[]array)
 {
     Write("[");
