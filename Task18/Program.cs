@@ -6,23 +6,27 @@
 using System;
 using static System.Console; 
 
+Clear();
+int[] array = GetRandomArray(8,0,1);
+WriteLine($"[{String.Join(",", array)}]");
+// или
+// PrintArray(array);
+// void PrintArray(int[] array)
+// {
+//     Write("[");
+//     for(int i = 0; i<array.Length-1; i++)
+//     {
+//         Write($"{array[i]},");
+//     }
+//     Write($"{array[array.Length-1]}]");
+// }
 
-void PrintArray(int[]array)
+int[] GetRandomArray(int size, int minValue, int maxValue)
 {
-    Write("[");
-    for(int i=0; i<8; i++)
+    int[] result=new int[size];
+    for (int i = 0; i < size; i++)
     {
-        Write($"{array[i]},");
+        result[i] = new Random().Next(minValue, maxValue +1 );
     }
-    Write("]");
-}
-
-int[] FillArray(int[]array)
-{
-    int[]array1= new int[a];
-    for(int a=0; a<8; a++)
-    {
-        array1[a]= new Random().Next(0,2);
-    }
-    return array1;
+    return result;
 }
