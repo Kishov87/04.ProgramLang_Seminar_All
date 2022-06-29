@@ -8,15 +8,14 @@ using System;
 using static System.Console; 
 Clear();
 Write("Введите число: ");
-int N=int.Parse(ReadLine());
-WriteLine(string.Join(" ", Fibonacci(N)));
+WriteLine(string.Join(" ", Fibonacci(int.Parse(ReadLine()))));
 int[] Fibonacci(int n)
 {
     int[] result = new int[n];
+    result[0] = 0;
+    result[1] = 1;
     for (int i = 2; i <= result.Length - 1; i++)
     {
-        result[0] = 0;
-        result[1] = 1;
         result[i] = result[i-1] + result[i-2]; 
     }
     return result;
